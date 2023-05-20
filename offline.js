@@ -1,0 +1,32 @@
+﻿{
+	"version": 1684603548,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/player-sheet0.png",
+		"images/player-sheet1.png",
+		"images/tilemap.png",
+		"images/diamond-sheet0.png",
+		"images/rock-sheet0.png",
+		"images/wall-sheet0.png",
+		"images/waypoint-sheet0.png",
+		"images/spritefont.png",
+		"images/restart-sheet0.png",
+		"media/come along with me (island song) [8 bit tribute to adventure time  ashley eriksson].m4a",
+		"media/come along with me (island song) [8 bit tribute to adventure time  ashley eriksson].ogg",
+		"media/8 bit death sound effect.m4a",
+		"media/8 bit death sound effect.ogg",
+		"media/hit.m4a",
+		"media/hit.ogg",
+		"media/8 bit victory non copyright sound effect  ncsfx.m4a",
+		"media/8 bit victory non copyright sound effect  ncsfx.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
